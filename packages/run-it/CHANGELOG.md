@@ -1,5 +1,27 @@
 # Changelog
 
+### [0.9.8](https://www.github.com/looker-open-source/sdk-codegen/compare/run-it-v0.9.7...run-it-v0.9.8) (2021-05-20)
+
+
+### Features
+
+* reduce size of apix bundle ([#676](https://www.github.com/looker-open-source/sdk-codegen/issues/676)) ([0d74f6a](https://www.github.com/looker-open-source/sdk-codegen/commit/0d74f6a7814b509416a9d2558c16439a4859b543))
+* show original spec in API Explorer ([#686](https://www.github.com/looker-open-source/sdk-codegen/issues/686)) ([2bfb014](https://www.github.com/looker-open-source/sdk-codegen/commit/2bfb0147f2947680a784ef3118192b1e7590b296))
+
+
+### Bug Fixes
+
+* sync design-tokens/icons dependency constraint ([eb1a427](https://www.github.com/looker-open-source/sdk-codegen/commit/eb1a427d3c90bec44b2aac542783c3cda4810c0e))
+* sync design-tokens/icons dependency constraint ([eb1a427](https://www.github.com/looker-open-source/sdk-codegen/commit/eb1a427d3c90bec44b2aac542783c3cda4810c0e))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @looker/sdk-codegen bumped from ^21.0.16 to ^21.1.0
+    * @looker/code-editor bumped from ^0.1.1 to ^0.1.2
+
 ### [0.9.7](https://www.github.com/looker-open-source/sdk-codegen/compare/run-it-v0.9.6...run-it-v0.9.7) (2021-05-05)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.5.7](https://www.github.com/looker-open-source/sdk-codegen/compare/wholly-sheet-v0.5.6...wholly-sheet-v0.5.7) (2021-05-20)
+
+
+### Features
+
+* reduce size of apix bundle ([#676](https://www.github.com/looker-open-source/sdk-codegen/issues/676)) ([0d74f6a](https://www.github.com/looker-open-source/sdk-codegen/commit/0d74f6a7814b509416a9d2558c16439a4859b543))
+
 ### [0.5.6](https://www.github.com/looker-open-source/sdk-codegen/compare/wholly-sheet-v0.5.5...wholly-sheet-v0.5.6) (2021-05-05)
 
 
